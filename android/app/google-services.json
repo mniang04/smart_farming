@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68564781283",
+    "project_id": "smartfarming1-4e023",
+    "storage_bucket": "smartfarming1-4e023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68564781283:android:b631f720ad064fde0eddd6",
+        "android_client_info": {
+          "package_name": "com.example.hnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68564781283-jpietl6bh9qmcd8agia23krkrarhqbvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtGjWapvitFBdEM1ErJryo2jtEqLbMXD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68564781283-jpietl6bh9qmcd8agia23krkrarhqbvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
